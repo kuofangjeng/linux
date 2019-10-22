@@ -3,3 +3,4 @@
 密码：hj921921
 网络共享盘符：/media/disk3/huangjian_disk3/
 git命令：git clone git@172.168.1.61:mid_Non_OS/v53
+qq password gfz1455580404
