@@ -5,3 +5,4 @@
 git命令：git clone git@172.168.1.61:mid_Non_OS/v53
 qq password gfz1455580404
 deposit 0 yuan
+girlfriend:no
