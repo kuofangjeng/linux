@@ -7,3 +7,4 @@ qq password gfz1455580404
 deposit 0 yuan
 girlfriend:no
 creat a new branch
+resolve commit conflict
